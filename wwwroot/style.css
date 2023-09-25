@@ -1,0 +1,32 @@
+﻿body {
+    /* used cssgradient.io */
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,0.16473317865429238) 0%, rgba(0,0,0,0.45707656612529) 55%, rgba(0,0,0,0.8259860788863109) 100%);
+}
+
+.elf {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #b50000;
+}
+
+h5 {
+    color: black;
+}
+
+#CoverArt {
+    border-radius: 5%;
+}
+
+#Trailer {
+    width: 500px;
+    height: 300px;
+    border: none;
+}
+
+#bold {
+    font-weight: bold;
+}
